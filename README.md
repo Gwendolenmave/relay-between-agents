@@ -638,4 +638,4 @@ STOP 条件：任何需要扩大权限、触碰 live、创建常驻服务、执�
 
 ## Credits
 
-Relay Between Agents 来自一套真实的人类—AI 协作施工流程。公开教程中的示例经过重构与隐私清洗，只保留可复用的架构、权衡和踩坑经验。
+Built by Gwendolen with Amelia GPT and Amelia Claude.
